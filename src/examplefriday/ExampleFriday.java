@@ -17,6 +17,7 @@ public class ExampleFriday {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("learning git hub");
+        System.out.println("another line");
     }
     
 }
