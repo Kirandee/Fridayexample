@@ -8,6 +8,7 @@ package examplefriday;
 /**
  *
  * @author Hp
+ fjkenlrfmkkfnreek
  */
 public class ExampleFriday {
 
